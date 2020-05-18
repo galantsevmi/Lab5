@@ -1,0 +1,6 @@
+C:\Users\Maxim\source\repos\Lab5\Lab5\bin\Debug\Lab5.exe.config
+C:\Users\Maxim\source\repos\Lab5\Lab5\bin\Debug\Lab5.exe
+C:\Users\Maxim\source\repos\Lab5\Lab5\bin\Debug\Lab5.pdb
+C:\Users\Maxim\source\repos\Lab5\Lab5\obj\Debug\Lab5.csprojAssemblyReference.cache
+C:\Users\Maxim\source\repos\Lab5\Lab5\obj\Debug\Lab5.exe
+C:\Users\Maxim\source\repos\Lab5\Lab5\obj\Debug\Lab5.pdb
